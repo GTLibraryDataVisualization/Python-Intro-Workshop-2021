@@ -1,0 +1,80 @@
+Andrew Sirolly
+asirolly3@gatech.edu
+Feel free to send me an email for any questions you have on this or anything else, I'll try and get back by the end of the next weekday at the latest.
+
+installing python:
+    official website: https://www.python.org
+    anaconda: https://www.anaconda.com
+
+python3 documentation:
+    https://docs.python.org/3/
+
+Light Weight Text editors (I recommend VSCode):
+https://code.visualstudio.com
+https://www.sublimetext.com
+https://atom.io
+
+Integrated Development Environment (Warning: overkill for most projects)
+https://www.jetbrains.com/pycharm/
+https://visualstudio.microsoft.com (windows only, not the same thing as visual studio code)
+https://developer.apple.com/xcode/ (Mac only)
+
+recommended websites for python practice:
+    beginner: offical beginners guide: https://wiki.python.org/moin/BeginnersGuide
+    beginner: codecademy: https://www.codecademy.com/learn/learn-python
+    beginner - intermediate: geeksforgeeks: https://www.geeksforgeeks.org/python-programming-language/
+    intermediate - advanced: leetcode:https://leetcode.com
+
+Other links:
+https://www.library.gatech.edu/events
+https://github.com/GTLibraryDataVisualization
+
+Note: if you installed both python2 and python3 replace python below with python3 and pip with pip3
+
+To run the Jupiter notebook:
+python.org installation + windows:
+	1) open the command prompt - windows key (search), type in cmd, press enter
+	2) check to make sure python is properly installed by typing "python --verison" without the quotes in the command prompt
+		you could get a version back ex: python 3.7.5
+	3) type "pip install jupyter" without quotes in the command prompt
+	4) type "jupyter notebook" without the quotes in the command prompt
+	5) navigate to where you downloaded the file in the opened window
+
+Anaconda installation + windows:
+	1) open the command prompt - windows key (search), type in cmd, press enter
+	2) check to make sure python is properly installed by typing "python --verison" without the quotes in the command prompt
+		you could get a version back ex: python 3.7.5 (anaconda)
+	3) type "jupyter notebook" without the quotes in the command prompt
+	4) navigate to where you downloaded the file in the opened window
+
+python.org installation + mac/linux:
+	1) open the command prompt - cmd/windows key + space (search), type in terminal, press enter
+	2) check to make sure python is properly installed by typing "python --verison" without the quotes in the command prompt
+		you could get a version back ex: python 3.7.5
+	3) type "pip install jupyter" without quotes in the command prompt
+	4) type "jupyter notebook" without the quotes in the command prompt
+	5) navigate to where you downloaded the file in the opened window
+
+Anaconda installation + Mac/linux:
+	1) open the command prompt - cmd/windows key + space (search), type in terminal press enter
+	2) check to make sure python is properly installed by typing "python --verison" without the quotes in the command prompt
+		you could get a version back ex: python 3.7.5 (anaconda)
+	3) type "jupyter notebook" without the quotes in the command prompt
+	4) navigate to where you downloaded the file in the opened window
+
+
+
+to run python using a text editor:
+	save your file as file.py
+	navigate to your file in the command prompt
+		windows:
+			cd folder -> goes into the folder
+			cd .. -> goes up a folder
+			dir -> list everything in current folder
+			python file.py -> runs file.py
+		Mac/Linux:
+			cd folder -> goes into the folder
+			cd .. -> goes up a folder
+			ls -> list everything in current folder
+			python file.py -> runs file.py
+
