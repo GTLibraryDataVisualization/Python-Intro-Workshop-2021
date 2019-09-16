@@ -1,5 +1,6 @@
-Andrew Sirolly
-asirolly3@gatech.edu
+Lilly Merck
+lmerck3@gatech.edu
+
 Feel free to send me an email for any questions you have on this or anything else, I'll try and get back by the end of the next weekday at the latest.
 
 installing python:
@@ -8,6 +9,10 @@ installing python:
 
 python3 documentation:
     https://docs.python.org/3/
+    
+quick reference:
+    python 2: https://learnxinyminutes.com/docs/python/
+    python 3: https://learnxinyminutes.com/docs/python3/
 
 Light Weight Text editors (I recommend VSCode):
 https://code.visualstudio.com
