@@ -7,14 +7,15 @@ Main content is inside of python_intro_2019.ipynb file, you can view it in the b
 https://nbviewer.jupyter.org/github/GTLibraryDataVisualization/Python-Intro-Workshop-2019/blob/master/python_intro_2019.ipynb#
 
 FOR THIS WORKSHOP YOU NEED:
-  -Jupyter Notebook
-  -Python 3.0 and above. (3.7 recommended)
-  
-  Tutorial for installing Python (Windows):
-      -https://www.youtube.com/watch?v=rVb1TqqbPj0
-  Tutorial for intalling on Mac:
-      -https://www.youtube.com/watch?v=8BiYGIDCvvA
-  
-  Once you have python installed:
-      -open command prompt
-      -type: pip install jupyter 
+    -Jupyter Notebook
+    -Python 3.0 and above. (3.7 recommended)
+
+    Tutorial for installing Python (Windows):
+        -https://www.youtube.com/watch?v=rVb1TqqbPj0
+
+    Tutorial for intalling on Mac:
+        -https://www.youtube.com/watch?v=8BiYGIDCvvA
+
+    Once you have python installed:
+        -open command prompt
+        -type: pip install jupyter 
