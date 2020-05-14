@@ -10,12 +10,19 @@ FOR THIS WORKSHOP YOU NEED:
     -Jupyter Notebook
     -Python 3.0 and above. (3.7 recommended)
 
-    Tutorial for installing Python (Windows):
-        -https://www.youtube.com/watch?v=rVb1TqqbPj0
+    Download Anaconda (inlcuding Python and Juputer Notebook): https://docs.anaconda.com/anaconda/install/
+    
+    OR
+    
+    Download Python: https://www.python.org/downloads/ 
+    
+        Tutorial for installing Python (Windows):
+            -https://www.youtube.com/watch?v=rVb1TqqbPj0
 
-    Tutorial for intalling on Mac:
-        -https://www.youtube.com/watch?v=8BiYGIDCvvA
+        Tutorial for intalling on Mac:
+            -https://www.youtube.com/watch?v=8BiYGIDCvvA
 
     Once you have python installed:
         -open command prompt
         -type: pip install jupyter 
+   
