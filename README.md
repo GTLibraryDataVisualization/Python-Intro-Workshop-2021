@@ -34,5 +34,5 @@ If you run into an error message "pip not recognized", it means you do not have 
         
 These two lines of code will help you install pip. And then go back to the section above and run the command:
         
-        pip install jupyter
+        pip3 install jupyter
 
