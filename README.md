@@ -24,5 +24,15 @@ FOR THIS WORKSHOP YOU NEED:
 
     Once you have python installed:
         -open command prompt
-        -type: pip install jupyter 
+        -type: pip3 install jupyter 
    
+If you run into an error message "pip not recognized", it means you do not have pip, which is what we use to install jupyter notebook here. Then run the commands below:
+
+        curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+        
+        python3 get-pip.py
+        
+These two lines of code will help you install pip. And then go back to the section above and run the command:
+        
+        pip install jupyter
+
