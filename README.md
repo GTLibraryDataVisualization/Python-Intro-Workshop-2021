@@ -37,5 +37,5 @@ These two lines of code will help you install pip. And then go back to the secti
         pip3 install jupyter
 
 
-workshop survey: https://docs.google.com/forms/d/e/1FAIpQLScpN3Leq765IihESOpakWJgj4MqdtR_jf9GXtlyqrMGA7nYqg/viewform?usp=sf_link
+Workshop survey: https://docs.google.com/forms/d/e/1FAIpQLScpN3Leq765IihESOpakWJgj4MqdtR_jf9GXtlyqrMGA7nYqg/viewform?usp=sf_link
 
